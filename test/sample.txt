@@ -1,0 +1,64 @@
+Heading for listing
+===================
+System.out.printf("%-9s%-23s%-13s%-13s%-14s%-13s%-13s\n", 
+	"Code", "Project Title", "Created on", "Status",
+        "Assigned to", "Assigned on", "Completed on");
+
+System.out.printf("%-15s%-10s%-13s%s\n", 
+	"Team Name", "Leader", "Setup Date", "Members");
+
+
+Exception Handling
+==================
+"Project " + ______ + " is not found!";
+"Project " + ______ + " has been assigned to team " + ______ + " on " + ______ + " already!"
+"Project " + ______ + " has been completed by team " + ______ + " on " + ______ + " already!"
+"Project " + ______ + " has been marked as completed before!"
+
+"Assignment of project " + ______ + " has not been started!"
+
+"Employee " + ______ + " already belongs to team " + ______ + "!"
+"Employee " + ______ + " is not found!"
+
+"Team " + ______ + " is not found!"
+
+"Employee already belongs to a team!"
+"Employee name already exists!"
+"Employee not found."
+
+"Project assignment has not been started!"
+"Project has been assigned or completed!"
+"Project has been completed!"
+"Project not found."
+
+"Team name already exists!"
+"Team not found."
+
+"Wrong Command."
+"Insufficient command arguments."
+"Cannot create one more system date instance."
+
+
+Others
+======
+"These teams have worked on related projects:"
+"These staff have worked on related projects:"
+"No team or staff has worked on related projects."
+
+"Completed"
+"In-progress"
+"Pending"
+
+"Done."
+"Nothing to undo."
+"Nothing to redo."
+
+"(no member)"
+": (no project)"
+____ + " (The Leader)";
+"Project created: " + ____
+
+String pTeam = "Project team: " + __________
+	pTeam += "\nProject team members: " + __________
+	pTeam += "\nExternal support: " + __________
+	pTeam += "\nExternal support: (none)";
